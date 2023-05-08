@@ -6,7 +6,7 @@ To get started with the tests, you'll need to have Node.js and Git installed on 
 
 Once Node.js and Git are installed, you can clone this repository by running the following command in your terminal:
 
-git clone https://github.com/yourusername/pokeapi-cypress-tests.git
+git clone https://github.com/telvin-mcalpine/pokeapi.git
 This will create a local copy of the repository on your system.
 
 Next, navigate into the repository directory and install the required dependencies by running the following command:
